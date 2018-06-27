@@ -1,6 +1,7 @@
 
 
-# CPRONDONIA 2018 - Submissão atividades (Comunidades)
+# CPRONDONIA 2018 - Submissão atividades (Comunidade - BigRobot) 
+
 * Obrigatório
 - Detalhes da atividade
 --- 
